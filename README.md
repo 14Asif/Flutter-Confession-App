@@ -2,10 +2,10 @@
 
 A Simple Flutter application.
 
-<img src="ChatScreen.png"/>
-<img src="HomePage.png"/>
-<img src="LoginPage.png"/>
-<img src="SignInPage.png"/>
+<img src="ss/ChatScreen.png"/>
+<img src="ss/HomePage.png"/>
+<img src="ss/LoginPage.png"/>
+<img src="ss/SignInPage.png"/>
 
 ## Getting Started
 
