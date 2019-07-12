@@ -1,0 +1,29 @@
+name: free_chat
+description: A new Flutter application.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  firebase_core: ^0.4.0+6
+  cloud_firestore: ^0.12.7
+  firebase_auth: ^0.11.1+7
+  modal_progress_hud: ^0.1.3
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/Images/
+  fonts:
+    - family: Lovers
+      fonts:
+        - asset: fonts/LoversQuarrel-Regular.ttf

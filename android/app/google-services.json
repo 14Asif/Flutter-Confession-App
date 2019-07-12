@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "345741099386",
+    "firebase_url": "https://freechat1-22610.firebaseio.com",
+    "project_id": "freechat1-22610",
+    "storage_bucket": "freechat1-22610.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345741099386:android:fa91da4a2683832a",
+        "android_client_info": {
+          "package_name": "com.freakyharsh.free_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345741099386-mjvhh5pq03dhc4lsavch0gl7i75lktio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf9sklu-eRt7WTLsA4nPQ06dwHOHvI-AU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345741099386-mjvhh5pq03dhc4lsavch0gl7i75lktio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
