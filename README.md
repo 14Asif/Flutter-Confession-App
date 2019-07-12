@@ -1,11 +1,20 @@
 # free_chat
 
 A Simple Flutter application.
-
-<img src="ss/ChatScreen.png" width = "300" style="inline-block"/>
-<img src="ss/HomePage.png" width = "300" style="inline-block"/>
-<img src="ss/LoginPage.png" width = "300" style="inline-block"/>
-<img src="ss/SignInPage.png" width = "300" style="inline-block"/>
+<table style="width:100%">
+<tr>
+<td><img src="ss/SignInPage.png" width = "300"/>
+</td>
+<td><img src="ss/LoginPage.png" width = "300"/>
+</td>
+</tr>
+<tr>
+<td><img src="ss/HomePage.png" width = "300"/>
+</td>
+<td><img src="ss/ChatScreen.png" width = "300"/>
+</td>
+</tr>
+</table>
 
 ## Getting Started
 
